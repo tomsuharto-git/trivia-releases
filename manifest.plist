@@ -23,7 +23,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>com.tomsuharto.trivia</string>
-        <key>bundle-version</key><string>1.0.6</string>
+        <key>bundle-version</key><string>1.0.7</string>
         <key>kind</key><string>software</string>
         <key>title</key><string>Trivia</string>
       </dict>
